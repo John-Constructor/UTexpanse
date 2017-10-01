@@ -26,7 +26,7 @@ local floor_box = (
 		}
 	}
 	
-	local doorway_box = (
+	local doorway_box_sel = (
 		type = "fixed",
 		fixed = {
 			{-1.5, -0.5, 0.5, -0.5, 2.5, 0.75}, -- Left
